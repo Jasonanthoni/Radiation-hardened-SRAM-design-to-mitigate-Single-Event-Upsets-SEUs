@@ -484,7 +484,7 @@ The following references are listed in the project report's literature review.
 
 ## Acknowledgements
 
-The project team acknowledges the guidance of Prof. Pooja Chandaragi and Prof. Renuka Bariker, and the support provided by the Department of Electronics and Communication Engineering at KLE Technological University, Hubballi.
+The project team acknowledges the guidance of Prof. Pooja Chandaragi and the support provided by the Department of Electronics and Communication Engineering at KLE Technological University, Hubballi.
 
 ---
 
