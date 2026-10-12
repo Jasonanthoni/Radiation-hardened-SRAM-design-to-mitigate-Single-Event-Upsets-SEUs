@@ -385,8 +385,16 @@ Radiation-hardened-SRAM-design-to-mitigate-SEUs/
 │
 ├── design/
 │   ├── 6t_sram/
+│   │   ├── schematic.png
+│   │   └── design_notes.md
+│   │
 │   ├── precharge_circuit/
+│   │   ├── schematic.png
+│   │   └── design_notes.md
+│   │
 │   └── dice_sram/
+│       ├── schematic.png
+│       └── design_notes.md
 │
 ├── simulations/
 │   ├── 6t_sram/
